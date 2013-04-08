@@ -36,3 +36,12 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'mysql2'
+gem 'ruby-mysql'
+gem 'will_paginate'
+gem 'systemu'
+#gem 'zipruby'
+gem 'unicorn'
+gem 'passenger'
+gem 'devise'
